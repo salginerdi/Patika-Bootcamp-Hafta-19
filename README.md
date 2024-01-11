@@ -22,3 +22,4 @@ JavaScript is a programming language that runs in web browsers and is commonly u
 ## History
 
 JavaScript was developed by Netscape in 1995. Originally named "Mocha," the language went through several iterations, being called "LiveScript" and eventually adopting the name "JavaScript." Over time, the language standardized and evolved under the name ECMAScript.
+ 
